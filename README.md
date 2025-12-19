@@ -48,15 +48,20 @@ When running the program, the user can choose:
 
 Use GCC to compile the project:
 
-```bash
 gcc main.c solver.c queue.c -o wordle
 
-How to Run
+---
+
+## How to Run
 After compilation, run the program
 ./wordle
-Then choose the desired mode from the menu
 
- Authors
- Souidi Ichrak
- Lasledj Noura
-Group 3 – Section C
+Follow the on-screen instructions to choose between:
+Human play mode
+Automatic solver mode
+
+---
+## Authors
+Souidi Ichrak
+Lasledj Noura
+
